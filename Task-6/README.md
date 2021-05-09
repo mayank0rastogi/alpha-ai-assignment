@@ -33,4 +33,7 @@
  ```
 * Step 4 : Final calculate the score by taking the mean of score value 
 
-Note : I have used wordnet Package from NLTK library which provides me to calcluate the 
+Note : I have used wordnet Package from NLTK library which provides me to calcluate senetnce simmilarity using :
+ 
+ `Synset` instances are the groupings of synonymous words that express the same concept
+ 
