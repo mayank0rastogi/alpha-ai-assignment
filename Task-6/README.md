@@ -33,7 +33,10 @@
  ```
 * Step 4 : Final calculate the score by taking the mean of score value 
 
-Note : I have used wordnet Package from NLTK library which provides me to calcluate senetnce simmilarity using :
+Note : I have used wordnet Package from NLTK library which provides me to calcluate senetnce simmilarity with the help of two main packages :
  
  `Synset` instances are the groupings of synonymous words that express the same concept
+ 
+ `wup_similarity` Return a score denoting how similar two word senses are, based on the depth of the two senses in the taxonomy and that of their Least Common Subsumer (most specific ancestor node). For More study [Refer](https://www.nltk.org/howto/wordnet.html)
+ 
  
